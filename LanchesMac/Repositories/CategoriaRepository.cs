@@ -10,7 +10,7 @@ namespace LanchesMac.Repositories
 
         public CategoriaRepository(AppDbContext context)
         {
-            _context = context;
+            _context = context; 
         }
 
         public IEnumerable<Categoria> Categorias => _context.Categorias;

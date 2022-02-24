@@ -15,8 +15,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\xampp\htdocs\Asp NET Core MVC\LanchesMac
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/xampp/htdocs/Asp NET Core MVC/LanchesMac/Views/Home/Demo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZW1vLmNzaHRtbA==
+[C:/xampp/htdocs/Asp NET Core MVC/LanchesMac/Views/CarrinhoCompra/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9Db21wcmFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/xampp/htdocs/Asp NET Core MVC/LanchesMac/Views/Home/Index.cshtml]
@@ -25,6 +25,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/xampp/htdocs/Asp NET Core MVC/LanchesMac/Views/Lanche/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/Asp NET Core MVC/LanchesMac/Views/Shared/Components/CarrinhoCompraResumo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FycmluaG9Db21wcmFSZXN1bW9cRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/xampp/htdocs/Asp NET Core MVC/LanchesMac/Views/Shared/Error.cshtml]
