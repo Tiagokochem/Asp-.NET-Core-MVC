@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
         "outputPath": "C:\\xampp\\htdocs\\Asp NET Core MVC\\LanchesMac\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
