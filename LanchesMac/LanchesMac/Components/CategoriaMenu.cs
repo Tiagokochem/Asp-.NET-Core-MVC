@@ -3,11 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LanchesMac.Components
 {
-    public class CategoriaMenu : ViewComponent 
+    public class CategoriaMenu : ViewComponent
     {
         private readonly ICategoriaRepository _categoriaRepository;
 
-        // construtor
         public CategoriaMenu(ICategoriaRepository categoriaRepository)
         {
             _categoriaRepository = categoriaRepository;

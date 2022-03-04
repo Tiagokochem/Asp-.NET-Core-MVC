@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0idwGd7D1gTeZaMrP/d2RwKABNkFpKNwdSGny2sPbaM=",
+  "Hash": "9H0+AafV6DdNrq3erFACGCAD+Hbq8Wd08+FCUEEKJok=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -153,6 +153,23 @@
       "OriginalItemSpec": "wwwroot\\images\\cart-5-16.ico"
     },
     {
+      "Identity": "C:\\xampp\\htdocs\\Asp NET Core MVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\delete.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\xampp\\htdocs\\Asp NET Core MVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/delete.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\delete.png"
+    },
+    {
       "Identity": "C:\\xampp\\htdocs\\Asp NET Core MVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\Envelope-icon24.png",
       "SourceId": "LanchesMac",
       "SourceType": "Discovered",
@@ -219,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Home-iconred.png"
+    },
+    {
+      "Identity": "C:\\xampp\\htdocs\\Asp NET Core MVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\lanchevegano1.jpg",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\xampp\\htdocs\\Asp NET Core MVC\\LanchesMac\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/lanchevegano1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lanchevegano1.jpg"
     },
     {
       "Identity": "C:\\xampp\\htdocs\\Asp NET Core MVC\\LanchesMac\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
